@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0544_000.yaml, hash: 'sha256:dec634e943240ee5461dcd6b38945bc921295d8c5c999aa00c2ac5d67c30136d'}
-  - {seq: 1, filename: KR6j0544_001.yaml, hash: 'sha256:cf5dedbc7a8b59c6676bf1b17635384b8163a6cb21016d6be609d7a0c58991f6'}
+  - {seq: 1, filename: KR6j0544_001.yaml, hash: 'sha256:897a7f501f250b032aeabce735b303fad9255481bb6a2f8f08796661efe8747c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0544_001.markers.yaml, hash: 'sha256:e8d7cbb1ed1a7756749f548563930baabc724a4c07596447fd41fa85381c1570'}
+  - {seq: 0, role: markers, filename: assets/KR6j0544_000.markers.yaml, hash: 'sha256:44f06fbeb6ed6dd5c9cc4c88eb39d34b8e9e3957675f15cdccb54c56372d4aba'}
+  - {seq: 1, role: markers, filename: assets/KR6j0544_001.markers.yaml, hash: 'sha256:9bfdeaf436fee88743b6bdb29ab925140648e700b067506aaf66be25042b91de'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說救拔熖口餓鬼陀羅尼經
   type: juan
   level: 1
-hash: sha256:6c50babd17fc7b72e60d07547ffec43652b54f46239b324cde3913617d84d94b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8e8fb39889ec4546a095b7e48abe98a0c87bb4f0d27603b9d0fde50146fe0d36
