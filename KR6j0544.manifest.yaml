@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0544/v1
 canonical_location: https://kanripo.org/bkk/KR6j0544/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說救拔焰口餓鬼陀羅尼經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0544_000.yaml, hash: 'sha256:dec634e943240ee5461dcd6b38945bc921295d8c5c999aa00c2ac5d67c30136d'}
-  - {seq: 1, filename: KR6j0544_001.yaml, hash: 'sha256:897a7f501f250b032aeabce735b303fad9255481bb6a2f8f08796661efe8747c'}
+  - {seq: 1, filename: KR6j0544_001.yaml, hash: 'sha256:e065e4363be103e364753cf9792c005b7377ac1952eddb494abcf29a7c2d2695'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0544_000.markers.yaml, hash: 'sha256:44f06fbeb6ed6dd5c9cc4c88eb39d34b8e9e3957675f15cdccb54c56372d4aba'}
-  - {seq: 1, role: markers, filename: assets/KR6j0544_001.markers.yaml, hash: 'sha256:9bfdeaf436fee88743b6bdb29ab925140648e700b067506aaf66be25042b91de'}
+  - {seq: 1, role: markers, filename: assets/KR6j0544_001.markers.yaml, hash: 'sha256:282e6652a5a015c7fe47c7857dd521e4312355ef199f720d6c9e3039bed661ab'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說救拔熖口餓鬼陀羅尼經
   type: juan
   level: 1
-hash: sha256:8e8fb39889ec4546a095b7e48abe98a0c87bb4f0d27603b9d0fde50146fe0d36
+hash: sha256:0928459d858b4ca27c4974cdc55bef003cf65e44cf5d7c7dc0d30c081e0f8658
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
